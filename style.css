@@ -1,0 +1,5 @@
+.jumbotron {
+  background-image: url("bckg.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
